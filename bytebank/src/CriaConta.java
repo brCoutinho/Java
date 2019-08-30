@@ -9,7 +9,6 @@ public class CriaConta {
 			Conta1.saldo++;
 			
 			System.out.println(Conta1.saldo);
-			System.out.println("THIAGO");
 		}
 		
 		
